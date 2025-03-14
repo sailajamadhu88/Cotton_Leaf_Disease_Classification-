@@ -1,7 +1,10 @@
 Step by Step procedure to run the project
+
 Steps to install pythonsoftware and Pycharm IDE
+
 Requirement :
 Windows : 10, 64bit
+
 Step 1: First download Python Version 3.10
 https://www.python.org/downloads/
  
