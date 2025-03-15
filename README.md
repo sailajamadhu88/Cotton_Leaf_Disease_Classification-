@@ -1,3 +1,6 @@
+**Robust Cotton Leaf Disease Classification Using Hybrid Deep Learning Approach with Multi-Loss Function**
+
+
 Step by Step procedure to run the project
 
 Steps to install pythonsoftware and Pycharm IDE
