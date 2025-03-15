@@ -11,8 +11,7 @@ Windows : 10, 64bit
 Step 1: First download Python Version 3.10
 https://www.python.org/downloads/
  
-Step 2: After install the python next download the pycharm using below website
-https://www.jetbrains.com/pycharm/download/#section=windows
+Step 2: After install the python next download the pycharm using below website https://www.jetbrains.com/pycharm/download/#section=windows
  
 Step 3: After install the pycharm Open pycharm IDE and click “File” menu and click “Open”  option.
  
