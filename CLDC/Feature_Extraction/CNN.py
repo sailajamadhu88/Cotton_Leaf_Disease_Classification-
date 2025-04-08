@@ -31,4 +31,3 @@ class CNN:
                 plt.subplot(num_rows, num_columns, i + 1)
                 plt.imshow(feature_maps[0, :, :, i], cmap='viridis')
                 plt.axis('off')
-            plt.show()
